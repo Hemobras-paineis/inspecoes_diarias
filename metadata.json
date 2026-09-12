@@ -1,0 +1,6 @@
+{
+  "name": "Inspeções Diárias",
+  "description": "Aplicativo para postar fotos e leituras de campo, painel com cards de alerta fora da média, modo TV industrial, gráficos individuais por equipamento e emissão de relatórios em PDF.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
